@@ -1,7 +1,10 @@
 # discord-chzzk-community-post-mirror
 디스코드 웹훅으로 치지직 커뮤니티 글을 쏩니다.\
+용량 절감을 위해 커뮤니티로 스머가 올린 포스트중 최근 30개 정도만을 기록하며, 저장합니다.\
+(오래된 포스트들은 기록에서 제거됩니다. 커뮤니티 포스트 10개 당 1페이지 이기때문에 3페이지 분량입니다.)\
+
 치지직에서 공식적으로 제공하는 API가 아니기때문에 사용에 주의를.\
-https://support.discord.com/hc/ko/articles/228383668
+웹훅이 머임: https://support.discord.com/hc/ko/articles/228383668
 
 ## 설정
 `main.py` 파일의 값들을 수정해야 합니다.
